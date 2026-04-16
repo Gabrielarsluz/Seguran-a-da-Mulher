@@ -1,6 +1,8 @@
 ## Segurança-da-Mulher
 Exercício para curso de AI agentes da DIO
 
+Links para o NotebookLM:  https://notebooklm.google.com/notebook/d06b1ee6-e1d0-47c0-88e7-973112661e67
+
 #Contexto e Objetivos:
 
 As fontes detalham os preocupantes índices de **violência de gênero** no Brasil, destacando o aumento de **feminicídios** e agressões domésticas registrados entre 2024 e 2026. Diante desse cenário, o poder público articula medidas de autodefesa, como o projeto de lei que autoriza a posse de **spray de pimenta** para mulheres e a criação de programas de **capacitação em defesa pessoal**. O material também descreve propostas tecnológicas, a exemplo do **botão do pânico**, e iniciativas educativas voltadas ao fortalecimento jurídico de mulheres em áreas rurais. Além de expor estatísticas alarmantes de canais de denúncia como o **Ligue 180**, os textos reforçam que o combate ao problema exige ações estruturais que vão além do endurecimento de penas. Por fim, as informações ressaltam a importância da rede de apoio e da **transparência dos dados** para enfrentar a subnotificação e proteger as vítimas.
